@@ -1,5 +1,3 @@
-package com.hei.garage;
-
 public class CarModel {
     private int id;
     private String brand;

@@ -1,5 +1,3 @@
-package com.hei.garage;
-
 public class Mechanic {
     private int id;
     private String name;

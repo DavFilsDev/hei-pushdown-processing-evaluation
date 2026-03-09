@@ -1,5 +1,3 @@
-package com.hei.garage;
-
 import java.math.BigDecimal;
 
 public class RepairStatistics {
