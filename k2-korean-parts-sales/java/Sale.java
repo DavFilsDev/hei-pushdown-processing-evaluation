@@ -1,5 +1,3 @@
-package com.hei.k2;
-
 public class Sale {
     private int id;
     private int partId;

@@ -1,5 +1,3 @@
-package com.hei.k2;
-
 import java.math.BigDecimal;
 
 public class PartSalesStatistics {
