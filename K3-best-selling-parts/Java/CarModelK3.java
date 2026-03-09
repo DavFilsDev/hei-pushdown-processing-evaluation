@@ -1,5 +1,3 @@
-package com.hei.k3;
-
 public class CarModelK3 {
     private int id;
     private String brand;  // KIA, DAEWOO

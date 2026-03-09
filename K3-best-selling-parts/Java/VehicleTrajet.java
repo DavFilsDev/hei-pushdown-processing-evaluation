@@ -1,5 +1,3 @@
-package com.hei.k3;
-
 import java.math.BigDecimal;
 
 public class VehicleTrajet {

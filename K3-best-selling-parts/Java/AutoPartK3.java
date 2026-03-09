@@ -1,5 +1,3 @@
-package com.hei.k3;
-
 public class AutoPartK3 {
     private int id;
     private int carModelId;

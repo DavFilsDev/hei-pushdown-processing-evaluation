@@ -1,5 +1,3 @@
-package com.hei.k3;
-
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
 
