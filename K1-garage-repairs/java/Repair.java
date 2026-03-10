@@ -15,19 +15,6 @@ public class Repair {
         this.cost = cost;
     }
     
-    // Getters and Setters
-    public int getId() { return id; }
-    public void setId(int id) { this.id = id; }
-    
-    public int getMechanicId() { return mechanicId; }
-    public void setMechanicId(int mechanicId) { this.mechanicId = mechanicId; }
-    
-    public int getCarModelId() { return carModelId; }
-    public void setCarModelId(int carModelId) { this.carModelId = carModelId; }
-    
-    public BigDecimal getCost() { return cost; }
-    public void setCost(BigDecimal cost) { this.cost = cost; }
-    
     @Override
     public String toString() {
         return "Repair{id=" + id + ", mechanicId=" + mechanicId + 
