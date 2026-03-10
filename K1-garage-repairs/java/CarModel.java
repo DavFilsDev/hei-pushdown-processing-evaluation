@@ -11,5 +11,4 @@ public class CarModel {
         this.model = model;
     }
     
-   
 }
