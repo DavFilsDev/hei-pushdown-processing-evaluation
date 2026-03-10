@@ -46,13 +46,6 @@ public class RepairStatistics {
     public double getRamPercentage() { return ramPercentage; }
     public void setRamPercentage(double ramPercentage) { this.ramPercentage = ramPercentage; }
     
-    // Getters and Setters for 1c
-    public String getMechanicName() { return mechanicName; }
-    public void setMechanicName(String mechanicName) { this.mechanicName = mechanicName; }
-    
-    public BigDecimal getTotalCost() { return totalCost; }
-    public void setTotalCost(BigDecimal totalCost) { this.totalCost = totalCost; }
-    
     // Getters and Setters for 1d
     public String getLowestRevenueMechanic() { return lowestRevenueMechanic; }
     public void setLowestRevenueMechanic(String lowestRevenueMechanic) { this.lowestRevenueMechanic = lowestRevenueMechanic; }
