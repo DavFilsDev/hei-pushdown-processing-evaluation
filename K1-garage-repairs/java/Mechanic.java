@@ -10,9 +10,5 @@ public class Mechanic {
         this.name = name;
         this.brand = brand;
     }
-    
-    @Override
-    public String toString() {
-        return "Mechanic{id=" + id + ", name='" + name + "', brand='" + brand + "'}";
-    }
+
 }
