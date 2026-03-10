@@ -15,9 +15,4 @@ public class Repair {
         this.cost = cost;
     }
     
-    @Override
-    public String toString() {
-        return "Repair{id=" + id + ", mechanicId=" + mechanicId + 
-               ", carModelId=" + carModelId + ", cost=" + cost + "}";
-    }
 }
